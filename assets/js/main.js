@@ -270,7 +270,7 @@ function generateHome(){
     break;
     case 'submit':
       button.className = 'submit';
-      button.innerText = `Validez votre choix`;
+      button.innerText = `Valider votre choix`;
       parent.append(button);
       button.addEventListener('click', (e) => {
         getAnswers();
