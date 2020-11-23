@@ -231,7 +231,7 @@ function showAnswersAndTips(id){
   h4.innerHTML = 'Note obtenue : ' + userScoreArr[questionsArr.findIndex(e => e == id)];
   answersTipsBlock.prepend(h4);
   
-  h3.innerHTML = 'Note totale : ' + Math.round(userScoreArr.reduce((a, b)=> a + b,0)*100)/100; + '/' + userScoreArr.length;
+  h3.innerHTML = 'Note totale : ' + Math.round(userScoreArr.reduce((a, b)=> a + b,0)*100)/100 + '/' + userScoreArr.length;
   answersTipsBlock.prepend(h3);
   
   h2.innerHTML = data[id]['question'];
