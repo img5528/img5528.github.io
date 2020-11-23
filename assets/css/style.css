@@ -7,8 +7,16 @@
 body {
     font-family: Roboto, sans-serif;
     height: 100vh;
+    background-color :#474D50;
 }
 
+.container-global, .answers-block{
+  background-color: #474D50;
+}
+html, body, input, textarea, select, button {
+  border-color: #736b5e;
+  color: #e8e6e3;
+}
 
 h2 {
     text-align: center;
@@ -20,7 +28,6 @@ h2 {
     min-width: 800px;
     margin: 0 auto;
     height: auto;
-    
 }
 
 label {
@@ -173,23 +180,19 @@ button:hover{
   padding: 10px;
 }
 
-body{
-  background-color: rgb(192, 192, 192);
-}
-
 
 /*end table */
 
 .trgood{
-  background-color: rgb(145, 216, 124);
+  background-color: #467623;
 }
 
 .trwrong{
-  background-color: rgb(212, 41, 41);
+  background-color: #AA2121;
 }
 
 #answersTips {
-  background-color: #fff;
+  background-color: #181A1B;
   border-radius: 3px;
 }
 
