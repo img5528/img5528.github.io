@@ -4,10 +4,14 @@
     padding: 0;
 }
 
+html{
+  background-color :#202324;
+}
+
 body {
     font-family: Roboto, sans-serif;
     height: 100vh;
-    background-color :#474D50;
+    padding: 20px 5px;
 }
 
 .container-global, .answers-block{
@@ -38,7 +42,7 @@ label {
 }
 
 label:hover {
-    background-color: rgb(241, 241, 241);
+    background-color: #202324;
 }
 
 
