@@ -1,0 +1,286 @@
+data = 
+[
+    {
+        "categorie": 2,
+        "question" : "Parmi les propositions suivante relatives aux bactéries, laquelle/lesquelles est/sont exactes(s) ?",
+        "proposals" : 
+        [
+            "Les pili communs assurent l'échange de matériel génétique",
+            "Toutes les formes de l'ADN présentes chez une bactérie sont bicaténaires et circulaires",
+            "Les plasmides bactériens sont nécessaires à la vie de la bactérie",
+            "Le choléra est dû à une infection par une levure",
+            "Le microbiome est l'ensemble des microorganismes présents dans un environnement défini"
+        ],
+        "tips" :
+        [
+            "les pili communs permettent l'adhérence à un substrat.",
+            "",
+            "les plasmides bactériens ne sont pas nécessaires à la vie de la bactérie.",
+            "le choléra est dû à une infection par une bactérie.",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 4,
+        "question" : "A propos de l’analyse combinatoire :",
+        "proposals" : 
+        [
+            "Dans les arrangements, l’ordre compte",
+            "La formule dans le cas d’un arrangement sans répétition est An^p = n^p",
+            "L’arrangement est un type de permutation.",
+            "Dans les combinaisons, l’ordre compte",
+            "La formule dans le cas d’une combinaison sans répétition est CNP=(n+p-1)!/[p! (n-1)!]"
+        ],
+        "tips" :
+        [
+            "",
+            "la formule dans le cas d’un arrangement sans répétition est AN^P= n!/(n-p)!",
+            "c’est l’inverse",
+            "l’ordre ne compte pas",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 4,
+        "question" : "Paul cherche un nouveau code de téléphone à 6 chiffres. Combien a-t-il de possibilités ?",
+        "proposals" : 
+        [
+            "Il s’agit d’une combinaison avec répétition",
+            "1000000",
+            "531441",
+            "5005",
+            "3003"
+        ],
+        "tips" :
+        [
+            "",
+            "On est dans une situation ou p=6, n=10 puisque cela correspond à tous les chiffres, allant de 0 à 9. De plus les caractères dans un code peuvent être répétés. Donc c’est arrangement avec répétition. On utilise la formule n^p , ce qui correspond à 10^6",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 4,
+        "question" : "Alice et 8 de ses amis vont au bar. Ils veulent s’installer à une table ronde. Combien de dispositions différentes peut-il y avoir ?",
+        "proposals" : 
+        [
+            "40230",
+            "5040",
+            "40320",
+            "362880",
+            "24030"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "Il s’agit d’une permutation circulaire. Donc on calcule (n-1)! avec n =9 (alice et ses 8 amis)",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 4,
+        "question" : "Maintenant qu’ils sont bien installés, Alice réfléchit à ce qu’elle va boire. Il y a 10 boissons différentes. Alice a grand soif, elle décide d’en prendre 8. Cela ne lui pose pas de problème de boire plusieurs fois la même boisson. Combien de possibilités, pour le choix dans le désordre de ces 8 boissons, y a t-il ?",
+        "proposals" : 
+        [
+            "23410",
+            "24310",
+            "2340",
+            "21430",
+            "3000"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "Il s’agit d’une combinaison avec répétition. On applique la formule:  CN^P=(n+p-1)!/[p!(n-1)!]= (10+8-1)!/[8!*(10-1)!]= 24310",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "À propos des liaisons chimiques :",
+        "proposals" : 
+        [
+            "La liaison double se compose de deux doublets ᴨ",
+            "Afin de minimiser les répulsions électrostatiques, les doublets liants et non liants de la couche externe se localisent le plus loin possible les uns des autres",
+            "La libre rotation est possible autour des liaisons simples ",
+            "L’état de valence d’un atome est le nombre de liaisons que l’atome peut former pour être stable",
+            "Les orbitales moléculaires sont formées par un recouvrement d’orbitales atomiques"
+        ],
+        "tips" :
+        [
+            "La liaison double se compose d’un doublet sigma et d’un doublet pi.",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "categorie": 2,
+        "question" : "Parmi les propositions suivantes relatives aux cellules eucaryotes, laquelle (lesquelles) est (sont) exacte(s)",
+        "proposals" : 
+        [
+            "Les histones sont spécifiques des eucaryotes",
+            "Tous les eucaryotes sont pluricellulaires",
+            "Les eucaryotes se reproduisent par conjugaison",
+            "Seul le noyau des cellules eucaryotes est constitué d'une double membrane",
+            "Les mécanismes de transcription et de traduction sont compartimentés"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 2,
+        "question" : "Parmi les propositions suivantes relatives au peroxysome, laquelle (lesquelles) est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "Les peroxysomes sont des organites du système endomembranaire",
+            "Le rôle principal des peroxysomes est la production et la détoxification du peroxyde d'hydrogène par des réactions d'oxydo-réduction",
+            "Les peroxysomes sont délimités par une double membrane",
+            "Les protéines sont importées dans les peroxysomes par des peroxines",
+            "La lumière peroxysomale a un pH acide"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 2,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)",
+        "proposals" : 
+        [
+            "La photosphatidylsérine est un glycérophospholipide membranaire avec une charge éléctrique nette négative à pH physiologique, dont la seule charge électrique est portée par l'acide phosphatidique",
+            "Le cholestérol n'est présent que dans la membrane plasmique des cellules eucaryotes",
+            "Les phospholipides sont des molécules amphiphiles",
+            "La glycosylation des phospholipides memebranaires se fait toujours sur leur tête polaire au niveau du versant intracellulaire de la membrane plasmique",
+            "Les liposomes sont des bicouches lipidiques artificielles sphériques capables de transporter des médicaments"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "categorie": 2,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)",
+        "proposals" : 
+        [
+            "Parmi les lipides présents dans une membrane, seuls les phospholipides sont capables de diffusion transversale (ou flip-flop)",
+            "L'ancrage membranaire des protéines extracellulaires nécessite la présence de glycosyl phosphatidyl inositol (ou GPI)",
+            "Les liposomes déversent leur contenu à l'intérieur d'une cellule après fusion avec la membrane plasmique",
+            "Les phospholipides chargés sont présents uniquement dans le feuillet interne de la membrane plasmique",
+            "Certains phospholipides du feuillet interne de la membrane plasmique peuvent fixer des ions calcium et permettre la contraction musculaire"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+
+
+    
+];
