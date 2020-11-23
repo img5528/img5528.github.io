@@ -136,6 +136,7 @@ button:hover{
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  color: black;
 }
 .results td{
   width: 50px;
