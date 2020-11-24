@@ -89,7 +89,7 @@ function shuffle(arr) {
 };
 
 function sliceArr(arr){
-  arr = arr.slice(0, 20);
+  return arr.slice(0, 20);
 }
 
 function getAnswers(){
@@ -226,7 +226,7 @@ function showAnswersAndTips(id){
     for (let i = 0; i < 4; i++) {
       let cell = document.createElement('td');
       if(i === 0){
-        content = saveArr[questionsArr[id]][j];
+        content = saveArr[questionsArr.findIndex(e => e == id)][j];
         resX = content;
       } else {
         content = createContent(id, theader[i-1], j);
@@ -353,7 +353,7 @@ function init(){
   generateDataArray();
   shuffle(questionsArr);
   if(questionsArr.length > 20){
-    sliceArr(questionsArr);
+    questionsArr = sliceArr(questionsArr);
   }
   generateHome();
 };
