@@ -280,7 +280,202 @@ data =
             true
         ]
     },
-
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle regroupe tous les composés qui, par réaction avec la diméthylamine, conduiront majoritairement au N, N-diméthylacétamide (CH<small>3</small>CON(CH<small>3</small>)<small>2</small>) ?",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1=>2=>3=>4",
+            "1=>3=>2=>4",
+            "1=>3=>4=>2",
+            "1=>4=>3=>2",
+            "1=>4=>2=>3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La réaction entre la molécule 1 et la molécule 2 conduit majoritairement à un amide",
+            "La réaction entre la molécule 1 et la molécule 3 conduit majoritairement à un amide",
+            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 2 (S<small>N</small>2)",
+            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 1 (S<small>N</small>1)",
+            "La molécule 4 peut former un pont disulfure en présence d'un oxydant doux"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 2, 3, 4, 5",
+            "2, 1, 3, 5, 4",
+            "1, 3, 2, 5, 4",
+            "2, 1, 5, 3, 4",
+            "3, 1, 2, 5, 4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 2, 3, 4",
+            "3, 1, 2, 4",
+            "3, 2, 1, 4",
+            "3, 2, 4, 1",
+            "4, 3, 2, 1"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
 
     
 ];

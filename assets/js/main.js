@@ -14,7 +14,7 @@ const scoreArr = [1, 0.5, 0.2, 0, 0, 0];
 
 let q = 0;
 
-
+const PATHIMAGE = '/assets/images/';
 
 function generateQuestionAnswers(){
 const h2 = document.createElement('h2');
@@ -22,13 +22,13 @@ const answersBlock = document.createElement('div');
 answersBlock.className = 'answers-block';
 
 
-  h2.innerHTML = data[questionsArr[q]]['question'];
+  h2.innerHTML = createContent(questionsArr[q], 'q');
   for(let i = 0; i < c.length; i++) { 
     answersBlock.innerHTML += 
     `<label class="container" for="${c[i]}">
           <input type="checkbox" id="${c[i]}" name="q" value="${c[i]}" />
           <span class="checkmark">${c[i].toUpperCase()}</span>
-          ${data[questionsArr[q]]['proposals'][i]}
+          ${createContent(questionsArr[q],'p',i)}
       </label>`;
   }
   if (questionsArr.length > q) {
@@ -39,6 +39,40 @@ answersBlock.className = 'answers-block';
   generateButton(answersBlock, 'submit')
 
 };
+
+function createContent(item, qpta, index){
+  let res = '';
+  let qptaWord = '';
+  switch (qpta) {
+    case 'q':
+      qptaWord = 'question'
+      break;
+    case 'p':
+      qptaWord = 'proposals'
+    break;
+    case 't':
+      qptaWord = 'tips'
+    break;
+    case 'a':
+      qptaWord = 'answers'
+    break;
+    default:
+      break;
+  }
+  if(index != null){
+    res = data[item][qptaWord][index];
+    if(res == 'img'){
+      res = `<img src="${PATHIMAGE + item}/${qpta + index}.png" />`;
+    }
+  } else {
+    res = data[item][qptaWord];
+    if(res == 'img'){
+      res = `<img src="${PATHIMAGE + item}/${qpta}.png" />`;
+    }
+  }
+  
+  return res;
+}
 
 function generateDataArray(){
   for (let i = 0; i < data.length; i++) {
@@ -179,8 +213,10 @@ function showAnswersAndTips(id){
   const tbody = document.createElement("tbody");
   const thead = document.createElement("thead");
   const tr = document.createElement('tr');
-  const theader = ['answers','proposals', 'tips']
+
+  const theader = ['a','p','t'];
   const textTheader = ['Votre réponse','Réponse attendue', '', 'Explications'];
+  
   let content = '';
   let resX;
   let resZ;
@@ -189,12 +225,11 @@ function showAnswersAndTips(id){
     let row = document.createElement('tr');
     for (let i = 0; i < 4; i++) {
       let cell = document.createElement('td');
-      let cellText = '';
       if(i === 0){
         content = saveArr[questionsArr[id]][j];
         resX = content;
       } else {
-        content = data[id][theader[i-1]][j];
+        content = createContent(id, theader[i-1], j);
         if(i === 1){
           resZ = content;
         }
@@ -205,8 +240,7 @@ function showAnswersAndTips(id){
         content = 'Faux';
       }
 
-      cellText = document.createTextNode(content);
-      cell.appendChild(cellText);
+      cell.innerHTML = content;
       row.appendChild(cell);
     }
 
@@ -234,7 +268,7 @@ function showAnswersAndTips(id){
   h3.innerHTML = 'Note totale : ' + Math.round(userScoreArr.reduce((a, b)=> a + b,0)*100)/100 + '/' + userScoreArr.length;
   answersTipsBlock.prepend(h3);
   
-  h2.innerHTML = data[id]['question'];
+  h2.innerHTML = createContent(id, 'q');
   answersTipsBlock.prepend(h2);
   body.prepend(answersTipsBlock);
 }
