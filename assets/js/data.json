@@ -588,5 +588,399 @@ data =
             false
         ]
     },
-    
+    {
+        "categorie": 1,
+        "question" : "Quel est le produit obtenu par réaction du propanoate d'éthyle CH<small>3</small>-CH<small>2</small>-COOC<small>2</small>H<small>5</small> en présence d'hydroxyde de sodium : NaOH ?",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 4",
+            "1, 3 ,4",
+            "2, 3, 4",
+            "1, 2, 4",
+            "1, 2"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Le composé 2 est hydrolysé plus rapidement que les trois autres",
+            "Parmi tous ces composés, le plus stable est le composé 1",
+            "Le composé 3 est hydrolysé plus rapidement que le composé 4",
+            "Le composé 4 est hydrolysé plus rapidement que le composé 1",
+            "Le composé 4 est hydrolysé plus rapidement que le composé 2"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "Quelles sont les propositions exactes parmi les suivantes: <br /><br />1) - Le doublet de l'azote du groupement amide est bien disponible<br />2) - L'atome d'azote du groupement amide est accepteur de liaison hydrogène<br />3) - La liaison amide est hydrolysée très rapidement à température ambiante<br />4) - L'atome d'azote du groupement amide est fortement basique<br />5) - Les atomes d'azote et d'oxygène de la fonction amide sont hybridés sp²",
+        "proposals" : 
+        [
+            "1, 2",
+            "1, 3, 4",
+            "1, 5",
+            "5",
+            "3, 5"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 2, 3, 4",
+            "3, 2, 4, 1",
+            "2, 3, 4, 1",
+            "4, 2, 1, 3",
+            "3, 4, 2, 1"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 2, 3, 4",
+            "3, 2, 4, 1",
+            "2, 3, 4, 1",
+            "4, 2, 1, 3",
+            "3, 4, 2, 1"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Un carbone asymétrique",
+            "Un atome d'azote basique",
+            "une fonction éther",
+            "une fonction amide",
+            "Aucune de ces réponses"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "2, 3, 5, 6",
+            "2, 4, 5, 6",
+            "1, 3, 5",
+            "1, 4, 6",
+            "2, 4, 5"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /*31*/
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Acide 2-bromo-3-chloro-4-éthylpentanoïque",
+            "Acide 2-bromo-3-chloro-hexane-4-carboxylique",
+            "Acide 4-bromo-3-chloro-2-éthylpentanoïque",
+            "Acide 2-bromo-3-chloro-hexan-4-oïque",
+            "Acide 5-bromo-4-chloro-hexan-3-oïque"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1 < 2 < 3",
+            "2 < 3 < 1",
+            "3 < 2 < 1",
+            "1 < 3 < 2",
+            "2 < 1 < 3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 34 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Aucune",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "2 et 4",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+
 ];
