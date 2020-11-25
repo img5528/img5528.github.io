@@ -282,7 +282,7 @@ data =
     },
     {
         "categorie": 1,
-        "question" : "Parmi les propositions suivantes, laquelle regroupe tous les composés qui, par réaction avec la diméthylamine, conduiront majoritairement au N, N-diméthylacétamide (CH<small>3</small>CON(CH<small>3</small>)<small>2</small>) ?",
+        "question" : "Parmi les propositions suivantes, laquelle regroupe tous les composés qui, par réaction avec la diméthylamine, conduiront majoritairement au N, N-diméthylacétamide (CH<sub>3</sub>CON(CH<sub>3</sub>)<sub>2</sub>) ?",
         "proposals" : 
         [
             "img",
@@ -343,8 +343,8 @@ data =
         [
             "La réaction entre la molécule 1 et la molécule 2 conduit majoritairement à un amide",
             "La réaction entre la molécule 1 et la molécule 3 conduit majoritairement à un amide",
-            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 2 (S<small>N</small>2)",
-            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 1 (S<small>N</small>1)",
+            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 2 (S<sub>N</sub>2)",
+            "La réaction entre la molécule 1 et la molécule 3 se produit selon un mécanisme de substitution nucléophile d'ordre 1 (S<sub>N</sub>1)",
             "La molécule 4 peut former un pont disulfure en présence d'un oxydant doux"
         ],
         "tips" :
@@ -590,7 +590,7 @@ data =
     },
     {
         "categorie": 1,
-        "question" : "Quel est le produit obtenu par réaction du propanoate d'éthyle CH<small>3</small>-CH<small>2</small>-COOC<small>2</small>H<small>5</small> en présence d'hydroxyde de sodium : NaOH ?",
+        "question" : "Quel est le produit obtenu par réaction du propanoate d'éthyle CH<sub>3</sub>-CH<sub>2</sub>-COOC<sub>2</sub>H<sub>5</sub> en présence d'hydroxyde de sodium : NaOH ?",
         "proposals" : 
         [
             "img",
@@ -982,5 +982,179 @@ data =
             false
         ]
     },
+    /* 35 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "L'entropie d'un système dans lequel se produit une transformation spontanée augmente toujours",
+            "Une réaction endothermique n'est jamais spontanée",
+            "Une réaction exothermique, pour laquelle ΔS < 0, n'est spontanée qu'au-dessous d'une certaine température",
+            "Si ΔH < 0 et ΔS > 0, la transformation est toujours spontanée",
+            "Une réaction spontanée est une réaction rapide"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 36 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, relatives à une réaction chimique caractérisée par sa variation d'enthalpie Δ<sub>r</sub>H et sa variation d'entropie Δ<sub>r</sub>S, laquelle (lesqulles) permet(tent) de garantir la spontanéité de la réaction ?",
+        "proposals" : 
+        [
+            "Δ<sub>r</sub>S > 0",
+            "ΔS<sub>univ</sub> > 0",
+            "Δ<sub>r</sub>H < 0 et Δ<sub>r</sub>S > 0, quelle que soit la température",
+            "Δ<sub>r</sub>H > 0 et Δ<sub>r</sub>S > 0, avec T > Δ<sub>r</sub>H / Δ<sub>r</sub>S",
+            "Δ<sub>r</sub>H < 0 et Δ<sub>r</sub>S < 0, avec T > Δ<sub>r</sub>H / Δ<sub>r</sub>S"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+        /* 37 */
+    {
+        "categorie": 1,
+        "question" : "On rappelle la réaction d'oxydation de l'acide pyruvique dans le cycle de Krebs :<br />CH<sub>3</sub>-CO-COOH<sub>(s)</sub> + 5/2 O<sub>2 (g)</sub> => 3 CO<sub>2 (g)</sub> + 2 H<sub>2</sub>O <sub>(l)</sub><br /><br />Parmi les propositions suivantes, quelle est celle qui correspond à la valeur de la variation d'enthalpie libre standard de cette réaction (en kJ.mol<sup>-1</sup>) ?<br /><br />On donne Δ<sub>f</sub>G<sup>0</sup>(CH<sub>3</sub>-CO-COOH) = -490 kJ.mol<sup>-1</sup>,<br />Δ<sub>f</sub>G<sup>0</sup>(CO<sub>2</sub>) = -400 kJ.mol<sup>-1</sup>,<br />Δ<sub>f</sub>G<sup>0</sup>(H<sub>2</sub>O) = -240 kJ.mol<sup>-1</sup>.",
+        "proposals" : 
+        [
+            "- 1680",
+            "- 550",
+            "- 1190",
+            "+ 1190",
+            "+ 1680"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 38 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, quelle est (quelles sont) celle(s) qui est (sont) exacte(s) ?<br />Soumises à des températures de plus en plus élevées, les molécules finissent toujours par se dissocier en atomes. Cette proposition est car dans un processus «r» de rupture des liaisons tel que : XY → X + Y, on a toujours :",
+        "proposals" : 
+        [
+            "Δ<sub>r</sub>S < 0 et Δ<sub>r</sub>H > 0",
+            "Δ<sub>r</sub>G > 0 quelle que soit la température",
+            "Δ<sub>r</sub>S > 0 et Δ<sub>r</sub>H < 0",
+            "Δ<sub>r</sub>S > 0 et Δ<sub>r</sub>H > 0",
+            "Δ<sub>r</sub>G < 0 quelle que soit la température"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 39 */
+    {
+        "categorie": 1,
+        "question" : "Soumises à des températures de plus en plus hautes, les molécules finissent toujours par se dissocier en atomes. Cette proposition est vraie car dans un processus «r» de rupture des liaisons tel que XY ⇆ X+Y, il existe toujours une température T pour laquelle on a :<br /><br />1. Δ<sub>r</sub>G > 0<br />2. <sub>r</sub>S > 0 et <sub>r</sub>H > 0<br />3. <sub>r</sub>S > 0 et <sub>r</sub>H < 0<br />4. <sub>r</sub>S < 0 et <sub>r</sub>H > 0<br /> Les propositions exactes sont :",
+        "proposals" : 
+        [
+            "1",
+            "2, 4",
+            "2",
+            "1, 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+        /* 40 */
+        {
+            "categorie": 1,
+            "question" : "Quand la réacttion HCOOH (liq) = CO (g) + H<sub>2</sub>O (liq) sera-t-elle spontanée ?<br />Données : ΔH = 16kj.mol<sup>-1</sup> ΔS = 250 J.K<sup>-1</sup>.mol<sup>-1</sup>",
+            "proposals" : 
+            [
+                "T > 64 K",
+                "T < 64 K",
+                "Jamais",
+                "Toujours",
+                "La réaction n'est pas spontanée à 25°C mais pourrait avoir lieu au-delà d'une certaine pression."
+            ],
+            "tips" :
+            [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answers" :
+            [
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
 
 ];
