@@ -1127,34 +1127,327 @@ data =
             false
         ]
     },
-        /* 40 */
-        {
-            "categorie": 1,
-            "question" : "Quand la réacttion HCOOH (liq) = CO (g) + H<sub>2</sub>O (liq) sera-t-elle spontanée ?<br />Données : ΔH = 16kj.mol<sup>-1</sup> ΔS = 250 J.K<sup>-1</sup>.mol<sup>-1</sup>",
-            "proposals" : 
-            [
-                "T > 64 K",
-                "T < 64 K",
-                "Jamais",
-                "Toujours",
-                "La réaction n'est pas spontanée à 25°C mais pourrait avoir lieu au-delà d'une certaine pression."
-            ],
-            "tips" :
-            [
-                "",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "answers" :
-            [
-                true,
-                false,
-                false,
-                false,
-                false
-            ]
-        },
+    /* 40 */
+    {
+        "categorie": 1,
+        "question" : "Quand la réacttion HCOOH (liq) = CO (g) + H<sub>2</sub>O (liq) sera-t-elle spontanée ?<br />Données : ΔH = 16kj.mol<sup>-1</sup> ΔS = 250 J.K<sup>-1</sup>.mol<sup>-1</sup>",
+        "proposals" : 
+        [
+            "T > 64 K",
+            "T < 64 K",
+            "Jamais",
+            "Toujours",
+            "La réaction n'est pas spontanée à 25°C mais pourrait avoir lieu au-delà d'une certaine pression."
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+        /* 41 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2 et 4",
+            "2 et 3",
+            "1 et 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 42 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-220",
+            "+150",
+            "-300",
+            "-150",
+            "+229"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 43 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1 et 2",
+            "2",
+            "3",
+            "2 et 3",
+            "aucune"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 44 */
+    {
+        "categorie": 1,
+        "question" : "Quels sont les signes de ∆H et ∆S pour une réaction qui est spontanée à toutes les températures ?",
+        "proposals" : 
+        [
+            "∆H positive, ∆S négative",
+            "∆H positive, ∆S positive",
+            "∆H négative, ∆S positive",
+            "∆H négative, ∆S négative",
+            "Aucune des réponses ci-dessus"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 45 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-220",
+            "+150",
+            "-300",
+            "-150",
+            "+229"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 46 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2, 4",
+            "2",
+            "1, 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 47 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2, 3",
+            "2, 4",
+            "1, 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 48 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 2",
+            "2",
+            "3",
+            "2, 3",
+            "Aucune des propositions n'est exactes"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 49 */
+    {
+        "categorie": 1,
+        "question" : "Si à 200°C, les ∆G et ∆H d'une réaction sont respectivement : -60 et -2kJ, quelle est la valeur correspondante de sa variation d'entropie en J.K<sup>-1</sup> ?",
+        "proposals" : 
+        [
+            "-15",
+            "-40",
+            "+122",
+            "+429",
+            "+65"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 50 */
+    {
+        "categorie": 1,
+        "question" : "Quelle est la proposition s'imposant obligatoirement pour une transformation spontanée ?",
+        "proposals" : 
+        [
+            "ΔG > 0",
+            "ΔS<sub>syst</sub> > 0",
+            "ΔH > TΔS<sub>syst</sub>",
+            "ΔH < 0",
+            "ΔS<sub>univers</sub> > 0"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    
+
+
 
 ];
