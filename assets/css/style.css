@@ -245,3 +245,40 @@ img {
 small {
   font-size: 12px;
 }
+
+.categories{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(40, auto);
+  width: 200px;
+  margin: 10px;
+}
+
+.categories div{
+  padding: 5px;
+  display: block;
+  background-color: #406f87;
+  text-align: center;
+  color: white;
+  line-height: 3;
+  border: 2px solid #423f3a;
+  border-radius: 100%;
+  cursor : pointer; 
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.categories div:hover{
+  opacity: 0.75;
+  transform: scale(1.1);
+}
+
+.categories .active{
+  background-color: rgb(26, 26, 26);
+  border: 2px solid black;
+  transform: scale(1.05);
+}
+
