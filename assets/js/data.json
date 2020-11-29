@@ -1446,8 +1446,615 @@ data =
             true
         ]
     },
-    
-
+    /* 51 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 52 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 53 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Augmentation de température pour la réaction 1",
+            "Addition de NaCl pour la réaction 1",
+            "Addition de CaO pour la réaction 2",
+            "Augmentation de température pour la réaction 3",
+            "Augmentation de la pression pour la réaction 2"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 54 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Augmenter la température",
+            "Baisser la pression",
+            "Dimunuer le volume",
+            "Rajouter de l'eau",
+            "Aucune des propositions"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 55 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Une diminution de la pression n'entraine aucune modification de l'équilibre car il y a un gaz parmi les réactifs et parmi les produits",
+            "Une augmentation de la pression entraine un déplacement de l'équilibre dans le sens de formation du méthane car le nombre de moles de gaz diminue",
+            "A cette température, la réaction évolue dans la sens de dissociation du méthane car K > 1",
+            "Une augmentation de la température n'entraine aucune modification de l'équilibre car la constante d'équilibre est indépendante de la température",
+            "Une diminution de température entraine le déplacement de l'équilibre dans le sens de formation du méthane"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    /* 56 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "L'équilibre ne varie pas",
+            "Sens exothermique 1",
+            "Sens exothermique 2",
+            "Sens endothermique 1",
+            "Sens endothermique 2"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 57 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Quand la pression diminue",
+            "Quand le nombre de moles de carbone augmente",
+            "Quand la température diminue",
+            "Quand le volume augmente",
+            "Quand la pression partielle de O<sub>2</sub> diminue"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 58 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1, 5",
+            "3, 4",
+            "3",
+            "2, 4",
+            "2, 3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 59 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 60 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 61 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "2, 3, 4, 5",
+            "2, 3, 5",
+            "1, 2, 3, 4, 5",
+            "1, 2, 3, 5",
+            "2, 3, 4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 62 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "2, 3, 4, 5",
+            "2, 3, 5",
+            "1, 2, 3, 4, 5",
+            "1, 2, 3, 5",
+            "2, 3, 4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 63 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Si on augmente la pression, l'équilibre est déplacé dans le sens gauche vers droite",
+            "Si on diminue la pression, l'équilibre est déplacé dans le sens gauche vers droite",
+            "Il n'y a pas d'effet de la pression sur cette réaction",
+            "Si on diminue la pression, l'équilibre est déplacé dans le sens droite vers gauche",
+            "Si on augmente la pression, l'équilibre est déplacé dans le sens droite vers gauche"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 64 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "∆G°<sub>1</sub> = -35,5kJ.mol<sup>-1</sup>",
+            "La réaction est spontanée",
+            "La réaction est déplacée vers la droite",
+            "La constante d'équilibre vaut approximativement 10<sup>-5</sup>",
+            "La réaction (1) est issue de la combinaison des réactions (2) à (4), toutes les trois spontanées"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 65 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Lors d'une réaction chimique, il y a conservation du nombre de molécules",
+            "A l'équilibre, le nombre de mole x de W est égal à 0,01 mole",
+            "A l'équilibre, le nombre de mole de U est égal à 0,02 mole",
+            "La constante d'équilibre relative aux concentrations K<sub>c</sub> vaut 10<sup>-4</sup>",
+            "La constante d'équilibre relative aux concentrations K<sub>c</sub> vaut 1,25.10<sup>-3</sup>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 66 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "0,125",
+            "0,25",
+            "1",
+            "-1",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 67 */
+    {
+        "categorie": 1,
+        "question" : "On considère une réaction en phase liquide réalisée dans un volume V = 1L à température et à pression constantes et qui peut être schématisée selon : U ⇄ 2Y + W<br />Lorsqu'à t = 0, l'on fait réagir 0,05 mole de U, on obtient à l'équilibre 0,02 mole de Y et x mole de W.<br />Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "Lors d'une réaction chimique, il y a conservation du nombre de molécules",
+            "A l'équilibre, le nombre de mole x de W est égal 0,01 mole",
+            "A l'équilibre, le nombre de mole de U est égak à 0,02 mole",
+            "La constante d'équilibre relative aux concentrations K<sub>C</sup> vaut 10<sup>-4</sup>",
+            "La constante d'équilibre relative aux concentrations K<sub>C</sup> vaut 1,25x10<sup>-3</sup>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 68 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, quelle est celle qui correspond à l'expression de la constante d'équilibre de la réaction de décomposition de l'iodure d'hydrogène à 350°C<br />On donne : 2HI<sub>(gaz)</sub> ⇆ H<sub>2 (gaz)</sub> + I<sub>2 (gaz)</sub>",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 69 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes relatives à la réaction A ⇆ B dont la constante d'équilibre est supérieure à 1, quelle est (quelles sont) celle (s) qui est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "La concentration du produit B est inférieure à la concentration du réactif A",
+            "La vitesse de la réaction A vers B est inférieure à celle de la réaction B vers A",
+            "La vitesse de la réaction B vers A est inférieure à celle de la réaction A vers B",
+            "La concentration du produit B égale la concentration du réactif A",
+            "La concentration du produit A est inférieure à la concentration du réactif B"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 70 */
+    {
+        "categorie": 1,
+        "question" : "Si la constante d'équilibre de réaction A ⇆ B est supérieure à 1, alors à l'équilibre (une seule réponse possible)",
+        "proposals" : 
+        [
+            "La concentration du produit B est inférieure  à la concentration du réactif A",
+            "La vitesse de la réaction A vers B est inférieure à celle de la réaction B vers A",
+            "La vitesse de la réaction B vers A est inférieure à celle de la réaction A vers B",
+            "La concentration du produit B égale la concentration du réactif A",
+            "La concentration du réactif A est inférieure à la concentration du produit B"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 71 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "0",
+            "1",
+            "e",
+            "1/e",
+            "0, 1"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
 
 
 ];
