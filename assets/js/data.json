@@ -2055,6 +2055,208 @@ data =
             false
         ]
     },
-
+    /* 72 */
+    {
+        "categorie": 1,
+        "question" : "Pour la réaction, 2NO<sub>(g)</sub> = N<sub>2(g)</sub> + O<sub>2(g)</sub>, on a K = 10 à 25°C.<br />La constante d'équilibre de la réaction : N<sub>2(g)</sub> + O<sub>2(g)</sub> = 2NO<sub>(g)</sub> à 25°C est :",
+        "proposals" : 
+        [
+            "0,1",
+            "1",
+            "-10",
+            "100",
+            "Il n'y a pas assez d'information pour la calculer"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 73 */
+    {
+        "categorie": 1,
+        "question" : "Si la constante d'équilibre pour X<sub>(g)</sub> + 2Y<sub>(g)</sub> = 4Z<sub>(g)</sub> est égale à 0,25 alors la valeur de la constante d'équilibre pour : 2Z<sub>(g)</sub> = ½X<sub>(g)</sub> + Y<sub>(g)</sub> vaut :",
+        "proposals" : 
+        [
+            "+ 0,25",
+            "- 0,25",
+            "2,0",
+            "4,0",
+            "8,0"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 74 */
+    {
+        "categorie": 1,
+        "question" : "Si la constante d'équilibre de réaction A ⇆ B est inférieure à 1, alors à l'équilibre (une seule réponse possible)",
+        "proposals" : 
+        [
+            "La concentration du produit B est supérieure à la concentration du réactif A.",
+            "La vitesse de la réaction directe est supérieure à celle de la réaction inverse.",
+            "La vitesse de la réaction inverse est supérieure à celle de la réaction directe.",
+            "La concentration du produit B égale la concentration du réactif A.",
+            "La concentration du réactif A est supérieure à la concentration du produit B."
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 75 */
+    {
+        "categorie": 1,
+        "question" : "A une température donnée, 0,3 mole de NO<sub>(g)</sub>, 0,2 mole de Cl<sub>2(g)</sub> et 0,5 mole de ClNO<sub>(g)</sub> sont introduits dans un réacteur de 25 litres. A l'équilibre, on retrouve 0,6 mole ClNO<sub>(g)</sub>",
+        "proposals" : 
+        [
+            "0,2",
+            "0,1",
+            "0,15",
+            "0,25",
+            "0,05"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 76 */
+    {
+        "categorie": 1,
+        "question" : "A une température donnée, 0,3 mole de NO<sub>(g)</sub>, 0,2 mole de Cl<sub>2(g)</sub> et 0,5 mole de ClNO<sub>(g)</sub> sont introduits dans un réacteur de 50 litres. A l'équilibre, on retrouve 0,6 mole ClNO<sub>(g)</sub>",
+        "proposals" : 
+        [
+            "Le nombre de molécules de ClNO va s'accroître.",
+            "Le nombre de molécules de Cl<sub>2</sub> va s'accroître.",
+            "La concentration de ClNO va s'accroître.",
+            "La constante d'équilibre va doubler.",
+            "Il n'y a pas de déplacement d'équilibre."
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 77 */
+    {
+        "categorie": 1,
+        "question" : "Si la constante d'équilibre pour : X<sub>(g)</sub> + 2Y<sub>(g)</sub> ⇆ 4Z<sub>(g)</sub> est égale à 0,125, la valeur de la constante d'équilibre pour :<br />4 Z<sub>(g)</sub> ⇆ X<sub>(g)</sub> + 2Y<sub>(g)</sub> est :",
+        "proposals" : 
+        [
+            "+ 0,125",
+            "- 0,125",
+            "+ 0,975",
+            "+ 8,0",
+            "+ 16,0"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 78 */
+    {
+        "categorie": 1,
+        "question" : "1,2 mole de PCl<sub>5(g)</sub> est placé dans un réacteur de volume fixe égal à 3 litres. Quand la température est portée à 200°C, le PCl<sub>5</sub> se décompose selon : PCl<sub>5(g)</sub> ⇆ PCl<sub>3(g)</sub> + Cl<sub>2(g)</sub>.<br />A l'équilibre il reste 1 mole de PCl<sub>5</sub>. Quelle est la valeur de Kc pour cette réaction ?",
+        "proposals" : 
+        [
+            "0,033",
+            "0,067",
+            "0,05",
+            "0,013",
+            "0,040"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
 
 ];
