@@ -2258,5 +2258,847 @@ data =
             false
         ]
     },
+    /* 79 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes relatives à la solubilisation du chlorure de potassium, laquelle (lesquelles) est (sont) exacte(s) ?<br /> KCl<sub>(s)</sub> ⇆ K<sup>+</sup><sub(aq)</sub> + Cl<sup>-</sup><sub>(aq)</sub>",
+        "proposals" : 
+        [
+            "La variation d'entropie est positive.",
+            "L'addition de NaCl(s) permet de déplacer la réaction vers la droite.",
+            "La réaction est forcément spontanée.",
+            "Au cours de cette réaction, il y a rupture de liaison ionique.",
+            "Au cours de cette réaction, le nombre d'interaction ion-dipôle augmente."
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    /* 80 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La réaction est exothermique",
+            "La réaction est endothermique",
+            "La variation d'entropie de la réaction est positive",
+            "Au-delà de 1000K, la réaction est spontanée",
+            "En-dessous de 1000K, la réaction est spontanée"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 81 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La variation d'entropie de la réaction (1) est égale à -40 J.K<sup>-1</sup>.mol<sup>-1</sup>",
+            "La variation d'entropie de la réaction (1) est égale à +40 J.K<sup>-1</sup>.mol<sup>-1</sup>",
+            "La variation denthalpie libre est positive",
+            "La constante d'équilibre de la réaction s'écrit : K = [A]<sub>eq</sub>/[B]<sub>eq</sub>",
+            "La constante d'équilibre K de la réaction (1) est inférieure ) 1"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            true,
+            false,
+            true
+        ]
+    },
+    /* 82 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) correspond(ent) à une (des) grandeur(s) extensive(s)",
+        "proposals" : 
+        [
+            "Température",
+            "Entropie",
+            "Pression partielle",
+            "Enthalpie libre",
+            "Fraction molaire"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 83 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)",
+        "proposals" : 
+        [
+            "Les réactions exothermiques libèrent de la chaleur",
+            "La chaleur de réaction à volume constant correspond à la variation d'énergie interne du système",
+            "La chaleur de réaction à pression contante corrsepond à la variation d'enthalpie du système",
+            "Une réaction exothermique est toujours spontanée",
+            "Les valeurs de ∆<sub>r</sub>H et ∆<sub>r</sub>U diffèrent fortement quand les réactions intéressent uniquement des solides ou des liquides"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 84 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Dans des conditions standard, la variation d'enthalpie de la réaction ∆<sub>r</sub>H° vaut -108 kJ",
+            "Dans des conditions standard, la variation d'enthalpie de la réaction ∆<sub>r</sub>H° vaut -196 kJ",
+            "Dans des conditions isobares, la décomposition du péroxyde d'hydrogène est exergonique pour toute température de réaction",
+            "La réaction de décomposition du péroxyde d'hydrogène est favorisée par une augmentation de pression",
+            "En supposant la réaction complète, à 273K et à la pression de 1,013.10<sup>5</sup>Pa, la réaction de décomposition de 340g de peroxyde d'hydrogène fournit 112L de O<sub>2(g)</sub>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    /* 85 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "En thermodynamique, l'énergie fournie par un système est comptée négativement",
+            "La variation d'enthalpie standard de la réaction (I) vaut ∆<sub>r</sub>H° = x - y",
+            "La variation d'enthalpie standard de la réaction (I) est négative",
+            "Si y < x la réaction (I) est spontanée",
+            "Si z < y, dans des conditions isobares, la formation de W<sub>gaz</sub> est favorisée par une diminution de température au cours de la réaction (II)"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 86 */
+    {
+        "categorie": 1,
+        "question" : "Quelles sont les propositions exactes ?<br />1. L'enthropie décroît si la réaction est spontanée<br />2. Si le ∆G est négatif, la réaction aura lieu rapidement<br />3. Pour qu'une réaction soit spontanée, elle doit être exothermique<br />4. Les réactions endothermiques n'ont jamais des valeur de K supérieures à 1<br />5. L'entropie d'une substance augmente quand elle s'évapore<br />6. Une réaction avec une enthalpie et une entropie positives ne sera jamais spontanée",
+        "proposals" : 
+        [
+            "1, 2, 4",
+            "3, 4, 6",
+            "5",
+            "2, 4",
+            "2, 3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 87 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "a-3; b-2; c-4; d-1; e-5",
+            "a-3; b-1; c-5; d-2; e-4",
+            "a-4; b-1; c-5; d-2; e-3",
+            "a-2; b-5; c-3; d-1; e-4",
+            "a-4; b-2; c-5; d-1; e-3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 88 */
+    {
+        "categorie": 1,
+        "question" : "Soient U, H, S, ∆<sub>r</sub>H°, ∆<sub>r</sub>G°, des grandeurs thermodynamiques caractérisant 1 mole d'O<sub>2</sub> gazeux ) 298K à P = 1 bar, (f signifiant «réaction de formation»). Parmi ces grandeurs, combien ont une valeur nulle ?",
+        "proposals" : 
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 89 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "a/3; b/2; c/4; d/1; e/5",
+            "a/4; b/1; c/5; d/2; e/3",
+            "a/4; b/2; c/5; d/1; e/3",
+            "a/3; b/1; c/5; d/2; e/4",
+            "a/2; b/5; c/3; d/1; e/4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 90 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La variation d'enthalpie standard ∆<sub>r</sub>H° de la réaction T = 298K est de 114,38 J.mol<sup>-1</sup>",
+            "La variation d'entropie standard ∆<sub>r</sub>S° de la réaction T = 298K est de 129,00 J.K<sup>-1</sup>.mol<sup>-1</sup>",
+            "La variation d'enthalpie libre est positive",
+            "La variation d'enthalpie libre est négative",
+            "La réaction est exothermique"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 91 */
+    {
+        "categorie": 1,
+        "question" : "Pour une réaction exothermique, quelle sont les propositions vraies ?",
+        "proposals" : 
+        [
+            "∆<sub>r</sub>H est négative, les produits ont une enthalpie plus faible que les réactifs",
+            "Les produits sont énergétiquement plus stables que les réactifs",
+            "De l'énergie peut être cédée par le système à l'environnement",
+            "Si cette réaction est spontanée alors le ∆<sub>r</sub>G est négatif",
+            "La réaction se produit instantanément dès que les réactifs sont mis en présence les uns des autres"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 92 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 93 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "Un système fermé n'échange que de l'énergie avec le milieu extérieur",
+            "Le volume est une variable intensive",
+            "La température est une variable extensive",
+            "Lors d'une transformation, la variation d'enthalpie ne dépend pas de la façon dont s'effectue la transformation, mais uniquement de l'état initial et de l'état final",
+            "La chaleur est une fonction d'état"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 94 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "Solidification, sublimation, vaporisation",
+            "Sublimation, condensation, solification",
+            "Fusion, vaporisation, sublimation",
+            "Sublimation, solidification, condensation",
+            "Vaporisation, condensation, solidification"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 95 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 96 */
+    {
+        "categorie": 1,
+        "question" : "Dix litres d'un gaz parfait se trouvent dans un récipient rigident fermé à une pression de 5 bars et à une température de 25°C. Pour faire passer la pression dans le récipient à 15 bars on doit (une seule réponse possible) :",
+        "proposals" : 
+        [
+            "augmenter la température à 621°C",
+            "retirer 5 litres de gaz",
+            "augmenter la température à 75°C",
+            "rajouter 10 litres de gaz",
+            "augmenter la pression externe à trois bars"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 97 */
+    {
+        "categorie": 1,
+        "question" : "On considère un gaz parfait dans un ballon parfaitement élastique à température constante. Si le volume du ballon est triplé, que devient la pression P",
+        "proposals" : 
+        [
+            "P est multipliée par 6",
+            "P est multipliée par 9",
+            "P est multipliée par 3",
+            "P est divisée par 3",
+            "P est divisée par 9"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 98 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 99 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2, 4",
+            "1, 3, 4",
+            "1, 3, 4",
+            "3, 4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 100 */
+    {
+        "categorie": 1,
+        "question" : "Un litre d'un gaz parfait se trouve dans un récipient rigide fermé à une pression de 1 bar et à une température de 25°C. Pour augmenter la pression dans le récipient à deux bars on doit (une seule réponse possible)",
+        "proposals" : 
+        [
+            "retirer un demi litre de gaz",
+            "rajouter deux litres de gaz",
+            "augmenter la température à 50°C",
+            "augmenter la température à 323°C",
+            "augmenter la pression externe à deux bars"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 101 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les réactions suivantes, quelle est celle qui correspond à la réaction de la formation de l'acide acétique CH<sub>3</sub>COOH à 298,15K ?",
+        "proposals" : 
+        [
+            "CH<sub>3</sub>CH<sub>2</sub>OH<sub>(liq)</sub> + O<sub>2 (gaz)</sub> ⇆ CH<sub>3</sub>COOH<sub>(lig)</sub> + H<sub>2</sub>O<sub>(liq)</sub>",
+            "CH<sub>4 (gaz)</sub> + CO<sub>2 (gaz)</sub> ⇆ CH<sub>3</sub>COOH<sub>(lig)</sub>",
+            "2 C<sub>(graphite)</sub> + 2 H<sub>2</sub>O<sub>(liq)</sub> ⇆ CH<sub>3</sub>COOH<sub>(lig)</sub>",
+            "2 C<sub>(graphite)</sub> + 2 H<sub>2 (gaz)</sub> ⇆ CH<sub>3</sub>COOH<sub>(lig)</sub>",
+            "2 C<sub>(graphite)</sub> + 4 H<sub>(gaz)</sub> ⇆ CH<sub>3</sub>COOH<sub>(lig)</sub>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 102 */
+    {
+        "categorie": 1,
+        "question" : "Un être humaun de masse 75kg produit une quantité de chaleur de 10<sup>6</sup>J par jour du fait de son activité métabolique. En supposant que le corps humain est une système isolé, on peut évaluer l'aumentation théorique de température du corps par jour.<br />L'être humain est en fait un système ouvert où le mécanisme d'évaluation de la chaleur est l'évaporation de l'eau (poumons et transpiration). On peut donc aussi évaluer le volume d'eau approximatif V qui doit être vaporisé chaque jour pour maintenir constante la température du corps. On donne C<sub>v</sub> = 4 J.K<sup>-1</sup>.g<sup>-1</sup>, chaleur latente de vaporisation de l'eau ∆<sub>vap</sub>H° = 40 kJ.mol<sup>-1</sup>.<br /><br />Parmi les propositions suivantes, laquelle donne les valeurs correctes d'augmentation théorique de la température du corps par jour et du volume V ?",
+        "proposals" : 
+        [
+            "0,33K et V = 0,45L",
+            "1,0K et V = 1L",
+            "3,3K et V = 4,5L",
+            "6,7K et V = 1L",
+            "3,3K et V = 0,45L"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 103 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La température initiale du système, avant immersion du bloc de cuivre, est de 0°C",
+            "La quantité de chaleur nécessaire pour faire fondre toute la glace est de 70 kJ",
+            "La quantité de chaleur apportée par le bloc de cuivre est suffiasante pour faire fondre toute la glace",
+            "La température finale du système, après immersion du bloc du cuivre et équilibre, est de 0°C",
+            "La chaleur apportée par le bloc de cuivre est partiellement dissipée dans le milieu extérieur"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 104 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les réactions ci-dessous, laquelle (lesquelles) respecte(nt) les conditions standard à 298K",
+        "proposals" : 
+        [
+            "H<sub>2(g, 1 bar)</sub> + Cl<sub>2(g, 1 bar)</sub> ⇆ 2HCl<sub>(g, 1 bar)</sub>",
+            "H<sub>(g, 1 bar)</sub> + Cl<sub>(g, 1 bar)</sub> ⇆ HCl<sub>(g, 1 bar)</sub>",
+            "C<sub>(graphite)</sub> + CO<sub>2(g, 1 bar)</sub> ⇆ 2CO<sub>(g, 2 bars)</sub>",
+            "Na<sup>+</sup><sub>(aq, 1 M)</sub> + Cl<sup>-</sup><sub>(aq, 1 M)</sub> ⇆ NaCl<sub>(s)</sub>",
+            "Br<sub>2(l)</sub> ⇆ Br<sub>2(g, 1 bar)</sub>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 105 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La quantité de chaleur Q échangée au cours de la réaction est égale à -10 kJ/mol",
+            "∆<sub>r</sub>H = +10 kJ/mol",
+            "La réaction est endothermique",
+            "∆<sub>r</sub>H = -10 kJ/mol",
+            "La réaction est exothermique"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 106 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "f représente l'enthalpie de formation du chlorure de sodium",
+            "a correspond à l'enthalpie de sublimation du sodium",
+            "L'énergie réticulaire est représentée par g",
+            "d mesure l'affinité électronique du chlore",
+            "L'énergie de liaison Cl-Cl est égale à -b"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 107 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s) ?",
+        "proposals" : 
+        [
+            "Les réactions exothermiques libèrent de la chaleur",
+            "La chaleur de réaction à volume constant correspond à la variation d'énergie interne du système",
+            "La chaleur de réaction à pression constante correspond à la variation d'enthalpie du système",
+            "Une réaction exothermique est toujours spontanée",
+            "Les valeurs de ∆<sub>r</sub>H et ∆<sub>r</sub>U différent fortement quand les réactions intéressent uniquement des solides ou des liquides"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+
 
 ];
