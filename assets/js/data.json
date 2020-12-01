@@ -3099,6 +3099,961 @@ data =
             false
         ]
     },
-
-
+    /* 108 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les réactions suivantes, laquelle (lesquelles) respecte (nt) les conditions standard à 298K ?",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 109 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "∆<sub>r</sub>H<sub>3</sub><sup>0</sup> = +66,4 kJ.mol<sup>-1</sup>",
+            "∆<sub>r</sub>H<sub>3</sub><sup>0</sup> = -66,4 kJ.mol<sup>-1</sup>",
+            "La réaction 1 est endothermique",
+            "∆<sub>r</sub>H<sub>3</sub><sup>0</sup> correspond à la variation d'enthalpie standard de formation de NO<sub>2</sub>",
+            "La réaction 3 est endothermique"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 110 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La transformation (2) est une déposition",
+            "La transformation (3) est une sublimation",
+            "Dans le cas de l'eau, la pente de la courbe dP / dT pour la transformation (1) est négative",
+            "La transformation (4) est une exothermique",
+            "La transformation (6) est une exothermique"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 111 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les réactions suivantes, quelle est celle dont l'enthalpie de réaction correspond à l'enthalpie standard de formation de l'acide acétique CH<sub>3</sub>COOH à 298,15K ?",
+        "proposals" : 
+        [
+            "img",
+            "img",
+            "img",
+            "img",
+            "img"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 112 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "∆<sub>r3</sub>H = 66,4 kJ.mol<sup>-1</sup>",
+            "∆<sub>r3</sub>H = -66,4 kJ.mol<sup>-1</sup>",
+            "La réaction 1 est endothermique",
+            "La réaction 2 est exothermique",
+            "La réaction 3 est endothermique"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 113 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 114 */
+    {
+        "categorie": 1,
+        "question" : "Au cours d'une transformation, l'énergie interne d'un système ne varie pas (une seule réponse possible)",
+        "proposals" : 
+        [
+            "Cela implique forcément que la température est constante",
+            "Cela implique forcément que le transfert thermique entre le système et l'environnement est nul",
+            "S'il s'agit d'un gaz parfait, alors sa température ne change pas",
+            "Cela signifie forcément que l'on a effectué un cycle, et que l'on est revenu au point de départ",
+            "Aucun de ces réponses"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 115 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 116 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "0,82L",
+            "83,21L",
+            "1,37L",
+            "138,68L",
+            "76,23L"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 117 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-406kJ.mol<sup>-1</sup>",
+            "+454kJ.mol<sup>-1</sup>",
+            "-62kJ.mol<sup>-1</sup>",
+            "+358kJ.mol<sup>-1</sup>",
+            "+148kJ.mol<sup>-1</sup>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 118 */
+    {
+        "categorie": 1,
+        "question" : "Quand 100g de vapeur d'eau à 100°C se condensent pour donner de l'eau liquide à la même température de 100°C, il y a, pour la masse d'eau considérée :<br />Donnée : valeur absolue de ∆<sub>vap</sub>H = 2,44kJ.g<sup>-1</sup>",
+        "proposals" : 
+        [
+            "Une libération de 0,0244kJ",
+            "Une absorption de 0,0244kJ",
+            "Une absorption de 244kJ",
+            "Une libération de 244kJ",
+            "Une libération de 122kJ"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 119 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-406kJ.mol<sup>-1</sup>",
+            "+454kJ.mol<sup>-1</sup>",
+            "-62kJ.mol<sup>-1</sup>",
+            "+358kJ.mol<sup>-1</sup>",
+            "+148kJ.mol<sup>-1</sup>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 120 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "362 kJ",
+            "1082 kJ",
+            "31 kJ",
+            "177 kJ",
+            "851 kJ"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 121 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 122 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-204,35kj/mol",
+            "-294,6kj/mol",
+            "0,1kj/mol",
+            "66,4kj/mol",
+            "aucune des réponses ci-dessus"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 123 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "32g",
+            "3,2g",
+            "71,5g",
+            "715g",
+            "aucune bonne réponse"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 124 */
+    {
+        "categorie": 1,
+        "question" : "Pour une réaction exothermique, quelles sont les propositions vraies ?",
+        "proposals" : 
+        [
+            "∆<sub>r</sub>H est négative, les produits ont une enthalpie plus faible que les réactifs",
+            "Les produits sont énergétiquement plus stables que les réactifs",
+            "De l'énergie peut être cédée parle système à l'environnement",
+            "Si cette réaction est spontanée alors ∆<sub>r</sub>G est négatif",
+            "La réaction se produit instantanément dès que les réactifs sont mis en présence les uns des autres"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    /* 125 */
+    {
+        "categorie": 1,
+        "question" : "Pour la plupart des corps, l'enthalpie croît plus vite que l'énergie interne en fonction de T, effet très souvent :<br />1) C<sub>p</sub> > C<sub>v</sub><br />2)  C<sub>p</sub> < C<sub>v</sub><br />puisque :<br />3) H = U + pV<br />Réponses :",
+        "proposals" : 
+        [
+            "1, 3",
+            "2",
+            "1",
+            "2, 3",
+            "3"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 126 */
+    {
+        "categorie": 1,
+        "question" : "Donnée : valeur absolue de ∆<sub>vap</sub>H = 2,44kJ.g<sup>-1</sup><br />Quand 100g de vapeur d'eau à 100°C sont changés en eau liquide à 100°C, il y a, pour l'eau",
+        "proposals" : 
+        [
+            "une libération de 33,5kJ",
+            "une absorption de 33,5kJ",
+            "une absorption de 244kJ",
+            "une libération de 244kJ",
+            "une libération de 122kJ"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 127 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-1561",
+            "-1517",
+            "-1473",
+            "-1429",
+            "-1605"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 128 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les transformations suivantes, laquelle (lesquelles) présente(nt) une variation d'entropie positive dans les conditions standards ?",
+        "proposals" : 
+        [
+            "La dénaturation de l'ADN (rupture des liaisons hydrogène entre les deux chaînes complémentaires de l'ADN)",
+            "La sublimation de I<sub>2(s)</sub>",
+            "La réaction de formation de l'urée CO(NH)<sub>2</sub>)<sub>2(s)</sub>",
+            "La combustion complète du méthane CH<sub>4(g)</sub>",
+            "H<sub>2</sub>O<sub>(g)</sub> ⇆ H<sub>2</sub>O<sub>(s)</sub>"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    /* 129 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes, laquelle (lesquelles) correspond(ent) à une (des) grandeur(s) extensive(s) ?",
+        "proposals" : 
+        [
+            "Température",
+            "Entropie",
+            "Pression partielle",
+            "Enthalpie libre",
+            "Fraction molaire"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 130 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "La réaction 1 respecte les conditions standards",
+            "Pour la réaction 1, ∆<sub>r</sub>S > 0",
+            "La réaction 1 respecte les conditions standards",
+            "Pour la réaction 2, ∆<sub>r</sub>S > 0",
+            "Pour la réaction 3, ∆<sub>r</sub>S > 0"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            false,
+            true
+        ]
+    },
+    /* 131 */
+    {
+        "categorie": 1,
+        "question" : "Parmi les propositions suivantes relatives à une réaction chimique caractérisée par sa variation d'enthalpie ∆<sub>r</sub>H et sa variation d'entropie ∆<sub>r</sub>S, laquelle (lesquelles) permet(tent) de garantir la spontanéité de la réaction ?",
+        "proposals" : 
+        [
+            "∆<sub>r</sub>S > 0",
+            "∆S<sub>univ</sub> > 0",
+            "∆<sub>r</sub>H < 0 ∆<sub>r</sub>S > 0, quelle que soit la température",
+            "∆<sub>r</sub>H > 0 ∆<sub>r</sub>S > 0, avec T > ∆<sub>r</sub>H / ∆<sub>r</sub>S",
+            "∆<sub>r</sub>H < 0 ∆<sub>r</sub>S < 0, avec T < ∆<sub>r</sub>H / ∆<sub>r</sub>S"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    /* 132 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "-252",
+            "-633",
+            "-503",
+            "+304",
+            "+253"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 133 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2, 3",
+            "3",
+            "1, 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 134 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2 et 4",
+            "2 et 3",
+            "1 et 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 135 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 136 */
+    {
+        "categorie": 1,
+        "question" : "Quels processus sont accompagnés d'une aumentation de l'entropie du corps considéré ?",
+        "proposals" : 
+        [
+            "fusion de la glace",
+            "congélation de l'eau",
+            "condensation de la vapeur d'eau",
+            "dissolution d'un cristal de chlorure de sodium dans l'eau",
+            "expansion libre d'un gaz"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            true,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    /* 137 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "1",
+            "2, 4",
+            "2, 3",
+            "1, 4",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    /* 138 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "+60",
+            "-60",
+            "+90",
+            "+130",
+            "+160"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    /* 139 */
+    {
+        "categorie": 1,
+        "question" : "Quelle est la proposition s'imposant obligatoirement pour une transformation spontanée ?",
+        "proposals" : 
+        [
+            "∆G > 0",
+            "∆S<sub>syst</sub> > 0",
+            "∆H > T∆S<sub>syst</sub>",
+            "∆H < 0",
+            "∆S<sub>univers</sub> > 0"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    /* 140 */
+    {
+        "categorie": 1,
+        "question" : "img",
+        "proposals" : 
+        [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "tips" :
+        [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answers" :
+        [
+            false,
+            true,
+            true,
+            false,
+            false
+        ]
+    },
 ];
